@@ -8,5 +8,5 @@ Pro tips for getting an A in Dr.Cerny's class.
     2. When studying go for understanding the content, not memorizing
     3. Master git and design patterns. 
     4. You dont realize it now, but java streams are king. 
-  
+ Emily Wokoek
   Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful. 
